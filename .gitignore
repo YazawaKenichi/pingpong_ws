@@ -1,0 +1,11 @@
+src/
+devel/
+log/
+logs/
+build/
+install/
+bin/
+lib/
+
+.vscode
+

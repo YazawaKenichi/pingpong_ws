@@ -1,0 +1,11 @@
+numpy==1.26.4
+deepface
+opencv-python
+cv-bridge
+
+empy==3.3.4
+tf-keras
+lark-parser
+
+# colcon build for venv
+colcon-common-extensions

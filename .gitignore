@@ -9,3 +9,9 @@ lib/
 
 .vscode
 
+firmware/
+
+venv/
+
+yolo*.pt
+

@@ -6,6 +6,7 @@ build/
 install/
 bin/
 lib/
+rosbags/
 
 .vscode
 
@@ -13,5 +14,5 @@ firmware/
 
 venv/
 
-yolo*.pt
+*.pt
 
